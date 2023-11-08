@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "7yrVYV1KySZsrJGfCfbj8evwScVnYIbu8r/Z8Cj46FL/KGJoAHw8hHaByZhVJSb0mKfnAN1BjQirQOUNrVvi0w==",
+  "dgSpecHash": "yiAcNTFyqONeNSU1FImpRMJWckNQokZ4emkgo65+Xk3IEGX5gZGQSfmly+RdVpp6v4Jf357vyFOYAx8MvwvjCA==",
   "success": true,
-  "projectFilePath": "D:\\2DS_Artur\\RpgMvc\\RpgMvc.csproj",
+  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\etec\\Segundo Semestre\\DS\\rpg mvczinho\\Rpg-Mvc\\RpgMvc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.13\\microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.13\\microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
